@@ -16,7 +16,7 @@ Sempre é aconselhavel fazer um backup dos arquivos originais antes de traduzir.
 ## 👥 Créditos
 
 * **Tradução, Ferramentas e Adaptação:** Luwaka
-* **Agradecimentos:** Toda Comunidade e jogadores de jogos como XCOM!
+* **Agradecimentos a Toda Comunidade e jogadores de jogos como XCOM!
 
 ---
 > 💡 *Projeto mantido de forma independente. Se encontrar algum erro grave de texto ou caixa fora de lugar, sinta-se à vontade para abrir uma **Issue** aqui no GitHub para ajudar na futura revisão!*
