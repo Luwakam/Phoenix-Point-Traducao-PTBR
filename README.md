@@ -8,6 +8,8 @@ Cole todos os arquivos .CSV nessa pasta Localization (se não existir crie uma)
 Tradução do jogo completo menos as cutscenes, toda a tradução foi feita por IA mas sem nenhum tipo de revisão.
 Com o tempo e quando eu puder eu vou arrumando alguns termos e palavras que estiverem com erros grosseiros.
 
+Sempre é aconselhavel fazer um backup dos arquivos originais antes de traduzir.
+
 ---
 
 ## 👥 Créditos
