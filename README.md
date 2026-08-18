@@ -15,7 +15,7 @@ Sempre é aconselhavel fazer um backup dos arquivos originais antes de traduzir.
 
 * **Status do Texto:** 100% das linhas de diálogo e menus foram traduzidas para PT-BR.
 * **Revisão:** Em andamento. O texto atual foi traduzido via IA para tornar o jogo jogável em português imediatamente.
-* **Próximos Passos:** Conforme eu for jogando, farei a revisão manual de termos, contexto e formatação técnica para o lançamento da **v1.0 (Versão Final)**.
+* **Próximos Passos:** Conforme eu for jogando,(Principalmente quando arrumar tempo) farei a revisão manual e mudarei para **v1.0 (Versão Final)**.
 
 
 ---
