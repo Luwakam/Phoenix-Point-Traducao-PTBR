@@ -3,6 +3,7 @@ Tradução Completa sem revisão do jogo Phoenix Point. (TRADUÇÃO FEITA POR IA
 
 
 Cole todos os arquivos .CSV nessa pasta "Localization" (se não existir crie uma) 
+
 ...Games\Phoenix Point\PhoenixPointWin64_Data\StreamingAssets\Localization
 
 Tradução do jogo completo menos as cutscenes, toda a tradução foi feita por IA mas sem nenhum tipo de revisão.
