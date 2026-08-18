@@ -11,11 +11,10 @@ Com o tempo e quando eu puder eu vou arrumando alguns termos e palavras que esti
 
 Sempre é aconselhavel fazer um backup dos arquivos originais antes de traduzir.
 
-## 📌 Estado Atual da Tradução (v0.8)
-
-* **Status do Texto:** 100% das linhas de diálogo e menus foram traduzidas para PT-BR.
-* **Revisão:** Em andamento. O texto atual foi traduzido via IA para tornar o jogo jogável em português imediatamente.
-* **Próximos Passos:** Conforme eu for jogando,(Principalmente quando arrumar tempo) farei a revisão manual e mudarei para **v1.0 (Versão Final)**.
+* **Status do Texto: 100% das linhas de diálogo e menus foram traduzidas para PT-BR.**
+* **Revisão: Em andamento. O texto atual foi traduzido via IA para tornar o jogo jogável em português imediatamente.**
+* **Tradução, Ferramentas e Adaptação:** Luwaka
+* **Agradecimentos:** Toda Comunidade e jogadores de jogos como XCOM!
 
 
 ---
